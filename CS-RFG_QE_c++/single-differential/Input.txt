@@ -1,0 +1,4 @@
+1          // 0 EM; 1 CC
+12 6 228   // A: mass number; Z: atomic number; Fermi momentum (MeV)
+1000       // incoming lepton energy (MeV)
+-1         // Helicity: 1 antineutrinos; -1 neutrinos
