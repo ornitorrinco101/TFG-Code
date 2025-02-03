@@ -1,0 +1,2 @@
+2      // 0 EM; 1 CC; 2 WNC
+-1     // Helicity: 1 antineutrinos; -1 neutrinos

@@ -1,0 +1,4 @@
+1      // 0 EM; 1 CC; 2 WNC
+0      // 0 neutron; 1 proton 
+500   // incoming lepton energy (MeV)
+-1     // Helicity: 1 antineutrinos; -1 neutrinos

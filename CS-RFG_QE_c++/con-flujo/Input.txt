@@ -1,0 +1,4 @@
+1          // 0 EM; 1 CC
+12 6 228   // A: mass number; Z: atomic number; Fermi momentum (MeV) carbon 12 6 228 H 94
+31.79    // scattering angle (degrees) og:34.4115
+-1         // Helicity: 1 antineutrinos; -1 neutrinos

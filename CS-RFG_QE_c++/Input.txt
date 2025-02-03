@@ -1,0 +1,5 @@
+1          // 0 EM; 1 CC
+3 2 150   // A: mass number; Z: atomic number; Fermi momentum (MeV) Carbon:12 6 228  Deuterium: 2 1 55 Iron: 56 26 241 Argon: 40 18 242 3He 3 2 150
+1000       // incoming lepton energy (MeV) og:961
+70         // scattering angle (degrees) og:37.5
+-1         // Helicity: 1 antineutrinos; -1 neutrinos
